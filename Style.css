@@ -1,0 +1,47 @@
+BODY 
+{
+	font-family: Roboto, sans-serif; 
+} 
+container{
+ padding:0 40px;
+ margin-left: 80px;	
+}
+{
+ display:black ;
+ text-decoration: none;
+ margin-bottom: 1.2 em;
+ position: relative;	
+}
+a:hover {
+color:red;
+}
+
+h1{
+color: gray;
+}
+h1 {
+font-family: arial;	
+}
+h2{
+ color: black;   
+}
+h1 {
+font-size: 2em;
+}
+h2 {
+font-size: 1.5em; 
+margin: 1.25em 0;   
+}
+img{
+border-radius: 100px;
+border: 3px solid transparent box-shadow: 0 4 px 15 px 0 px rgba(0, 0, 0, 0.52); 
+object-fit: cover; 
+}
+
+img:hover{
+    color:red;
+}
+
+button:hover{
+    color: red;
+}
